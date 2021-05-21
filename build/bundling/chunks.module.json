@@ -1,0 +1,38 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "0a1aae3a55ee8d34c84b",
+  "publicPath": "/static/",
+  "outputPath": "/Users/kimberleychallis/GitHub/hello-frontity/build/static",
+  "assetsByChunkName": {
+    "hello-frontity": [
+      "hello-frontity.module.js",
+      "hello-frontity.0fe5c2bb1a887c3cf349.hot-update.js"
+    ]
+  },
+  "assets": [],
+  "filteredAssets": 3,
+  "namedChunkGroups": {
+    "hello-frontity": {
+      "chunks": [
+        "hello-frontity"
+      ],
+      "assets": [
+        "hello-frontity.module.js",
+        "hello-frontity.0fe5c2bb1a887c3cf349.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "hello-frontity",
+      "files": [
+        "hello-frontity.module.js",
+        "hello-frontity.0fe5c2bb1a887c3cf349.hot-update.js"
+      ]
+    }
+  ]
+}
